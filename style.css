@@ -1,0 +1,16 @@
+.header{
+    background-color: khaki;
+}
+.Srijan{
+background-color: goldenrod;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: coral;
+    color: cornsilk;
+    line-height: 3;
+    font-size: 20px;
+    text-align: center;
+}
